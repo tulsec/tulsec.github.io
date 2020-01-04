@@ -1,0 +1,37 @@
+.jumbotron{
+background:
+linear-gradient(
+  rgba(0, 0, 0, 0.65),
+  rgba(0, 0, 0, 0.85)
+),
+url('../images/tulsec_flag.png');
+background-repeat: no-repeat;
+background-attachment: fixed;
+color:white !important;
+height:100vh;
+}
+.jumbotron .container{
+  margin:0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translateY(-50%,-50%);
+  transform: translateY(-50%,-50%);
+}
+
+.page-scroll{
+  height:5000px;
+}
+
+.btn-outline-danger{
+  color:white;
+  border-color:white;
+  border-radius:0px;
+  font-weight:100;
+  margin-top:20px;
+}
+.lead{
+  font-family:raleway;
+  font-weight:100;
+  margin-top:-10px;
+}
