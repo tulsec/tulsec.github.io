@@ -10,14 +10,6 @@ background-attachment: fixed;
 color:white !important;
 height:100vh;
 }
-.jumbotron .container{
-  margin:0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translateY(-50%,-50%);
-  transform: translateY(-50%,-50%);
-}
 
 .page-scroll{
   height:5000px;
