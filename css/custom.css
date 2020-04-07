@@ -10,20 +10,3 @@ background-attachment: fixed;
 color:white !important;
 height:100vh;
 }
-
-.page-scroll{
-  height:5000px;
-}
-
-.btn-outline-danger{
-  color:white;
-  border-color:white;
-  border-radius:0px;
-  font-weight:100;
-  margin-top:20px;
-}
-.lead{
-  font-family:raleway;
-  font-weight:100;
-  margin-top:-10px;
-}
